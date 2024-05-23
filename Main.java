@@ -8,6 +8,7 @@ public static void main(String[] args) {
     System.out.println("output from java program");
     System.err.println(new Date());
     System.err.println("changes");
+    System.err.println("added new file");
     
 }
 }
