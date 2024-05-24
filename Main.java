@@ -10,6 +10,8 @@ public static void main(String[] args) {
     System.err.println("changes");
     System.err.println("added new file");
     System.err.println("new changes");
+    Student s=new Student();
+    s.sayHello();
     
 }
 }
