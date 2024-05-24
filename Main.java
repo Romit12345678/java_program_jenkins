@@ -9,6 +9,7 @@ public static void main(String[] args) {
     System.err.println(new Date());
     System.err.println("changes");
     System.err.println("added new file");
+    System.err.println("new changes");
     
 }
 }
