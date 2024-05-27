@@ -1,17 +1,10 @@
-import java.util.*;;
-
 public class Main{
 
-
 public static void main(String[] args) {
-    System.out.println("this is java program");
-    System.out.println("output from java program");
-    System.err.println(new Date());
-    System.err.println("changes");
-    System.err.println("added new file");
-    System.err.println("new changes");
-    Student s=new Student();
-    s.sayHello();
-    
+    System.err.println("hello ");
+    System.err.println("hello from java program ");
+    System.err.println("h r u?? ");
+
 }
+
 }
