@@ -1,5 +1,5 @@
 <form action="/action_page.php">
-	<h1>Deveops class<h1>
+	<h1>Deveops classss<h1>
   <fieldset>
     <legend>Personalia:</legend>
     <label for="fname">First name:</label><br>
